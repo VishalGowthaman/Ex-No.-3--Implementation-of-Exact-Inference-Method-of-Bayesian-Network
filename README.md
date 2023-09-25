@@ -41,10 +41,11 @@ Step 7:
  Print the results.<br>
 
 ## Program :
-Name:Ezhil Mathi.R
+```
+Name:Vishal Gowthaman K R
 
-Reg.No:212221230026
-
+Reg.No:212221230123
+```
 ```py
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
